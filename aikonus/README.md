@@ -81,7 +81,7 @@ https://www.youtube.com/watch?v=U7Q0ScGtr1I Ollama ve mistal modeli kurulmalıd�
 Yazılım sırasındaki video kaydı.
 https://www.youtube.com/watch?v=O0hjRj15QRc 
 🔗 [YouTube Kanalı: AITool-s](https://www.youtube.com/@aitool-s)
-
+Topluluk Sayafası : https://www.bilgiveteknoloji.com/forum/public/d/95-aikonus-hafizali-yapay-zeka-chatbotu
 ---
 
 ## 📁 Klasör Yapısı
