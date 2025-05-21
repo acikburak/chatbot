@@ -1,7 +1,6 @@
 
 # 🧠 AIKonuş — Hafızalı Yapay Zeka Chatbotu
 
-Bu proje, **AITool-s YouTube** sayfası için hazırlanan örnek bir yapay zeka proje demosudur.  
 Kali Linux üzerinde çalışmak üzere tasarlanmış, **Ollama tabanlı hafızalı bir yapay zeka sohbet botudur**.
 
 ---
