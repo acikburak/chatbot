@@ -48,13 +48,38 @@ ollama pull mistral
 ```bash
 ollama run mistral "Merhaba! Kitaplarımı işlemeye hazır mısın?"
 ```
+### 6. projeyi indir
+🔗 GitHub Bağlantısı:
+```bash
+git clone https://github.com/acikburak/chatbot.git
+```
+## 7. Aşağıdaki kodları çalıtırarak kurulumu tamamla
+```bash
+cd chatbot/aikonus
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+
+```
+## Çalıştırmak için 
+```bash
+cd chatbot/aikonus
+source venv/bin/activate
+python3 main.py
+## gelen url adresini aç.
+```
+
+
+
 
 ---
 
 ## 🎥 Eğitim ve Tanıtım Videosu
 
 Projeyle ilgili detaylı anlatımı AITool-s YouTube kanalında izleyebilirsiniz:
-
+https://www.youtube.com/watch?v=U7Q0ScGtr1I Ollama ve mistal modeli kurulmalıdır. video'dan takip ederek indirebilirsiniz.
+Yazılım sırasındaki video kaydı.
+https://www.youtube.com/watch?v=O0hjRj15QRc 
 🔗 [YouTube Kanalı: AITool-s](https://www.youtube.com/@aitool-s)
 
 ---
