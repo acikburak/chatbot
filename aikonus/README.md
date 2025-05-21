@@ -63,15 +63,17 @@ Projeyle ilgili detaylı anlatımı AITool-s YouTube kanalında izleyebilirsiniz
 
 ```bash
 aikonus/
+├──  main.py 
 ├── app/
-│   ├── document_loader.py
-│   └── ollama_runner.py
-├── documents/
-│   ├── bilişim_hukuku.txt
-│   ├── parola_politikasi_ozel.txt
-│   └── siber_guvenlik.txt
-├── main.py
-└── requirements.txt
+│   └── ollama_runner.py            # Gradio + Ollama entegrasyonu
+│   └── document_loader.py  ✅
+├── documents/             # Kullanılacak dökümanlar buraya eklenecek
+│   └── parola_politikasi_ozel.txt #Temsilidir.
+│   └── bilişim_hukuku.txt #temsilidir.
+│   └── siber_guvenlik.txt #temsilidir.
+
+├── requirements.txt       # Gerekli Python paketleri
+└── README.md              # Proje açıklaması
 ```
 
 ---
