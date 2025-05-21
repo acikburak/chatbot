@@ -1,0 +1,9 @@
+Bilişim hukuku, bilgi teknolojileri ve dijital ortamlarla ilgili hukuki düzenlemeleri kapsar. Türkiye'de bilişim suçları Türk Ceza Kanunu'nun 243-245. maddeleri arasında düzenlenmiştir.
+
+TCK 243. maddeye göre, bir bilişim sistemine hukuka aykırı olarak girilmesi suçtur ve 1 yıla kadar hapis cezası öngörülür. Sistemdeki verilerin bozulması ya da yok edilmesi cezayı artırır.
+
+TCK 244. madde ise sistemi engelleme, bozma, verileri yok etme veya değiştirme gibi fiilleri kapsar. Bu durumda fail 1 yıldan 5 yıla kadar hapis cezasıyla cezalandırılır.
+
+Ayrıca KVKK (6698 sayılı Kişisel Verilerin Korunması Kanunu) kapsamında veri sorumluları, kişisel verileri hukuka uygun şekilde işlemeli ve güvenliğini sağlamakla yükümlüdür.
+
+Bilişim hukuku, aynı zamanda uluslararası boyut da taşır. Örneğin, Budapeşte Siber Suçlar Sözleşmesi, dijital suçlarla mücadelede ülkeler arası işbirliğini artırmayı amaçlar.

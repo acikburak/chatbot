@@ -1,0 +1,27 @@
+Kurumsal Sistemler İçin Parola ve Hesap Güvenliği Politikası (Özel Yapılandırma)
+
+1. **Parola Yenileme Süresi**
+   Kullanıcılar her 185 günde bir parolalarını yenilemek zorundadır.
+   Bu süre, genel standartlardan (30-45-60 gün) farklı olarak esnek güvenlik politikamız gereği belirlenmiştir.
+
+2. **Minimum Parola Uzunluğu**
+   Parolalar en az 12 karakter uzunluğunda olmalı; büyük harf, küçük harf, rakam ve özel karakter içermelidir.
+
+3. **Parola Geçmişi**
+   Kullanıcı daha önce kullandığı son 10 parolayı tekrar kullanamaz.
+
+4. **Hesap Kitlenme Politikası**
+   Aynı kullanıcı adıyla arka arkaya 6 hatalı giriş yapılması durumunda hesap 90 gün boyunca kilitlenir.
+   Kilit açma sadece sistem yöneticisi tarafından gerçekleştirilir.
+
+5. **İnaktif Hesaplar**
+   Sisteme 60 gün boyunca giriş yapmayan kullanıcı hesapları otomatik olarak pasif hale getirilir.
+
+6. **Yönetici Hesapları**
+   Tüm yönetici hesapları için çok faktörlü kimlik doğrulama (MFA) zorunludur.
+   Yönetici hesaplarının parolaları en geç 60 günde bir değiştirilmelidir.
+
+7. **Uyarı Sistemi**
+   Parola süresi bitimine 10 gün kala kullanıcıya otomatik e-posta bildirimi gönderilir.
+
+Bu yapılandırma, esnek ama denetimli güvenlik ortamları için uygundur. Özellikle yarı kapalı kurum içi ağlarda uygulanması önerilir.

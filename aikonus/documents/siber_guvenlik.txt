@@ -1,0 +1,19 @@
+Siber güvenlik, bilgisayar sistemlerinin, ağların ve verilerin yetkisiz erişim, saldırı, bozulma veya veri kaybına karşı korunmasını sağlar.
+
+Siber güvenliğin temel ilkeleri şunlardır:
+- Gizlilik (Confidentiality)
+- Bütünlük (Integrity)
+- Erişilebilirlik (Availability)
+
+Kurumsal düzeyde, saldırılara karşı koruma sağlamak için güvenlik duvarı (firewall), antivirüs yazılımları, saldırı tespit sistemleri (IDS), çok faktörlü kimlik doğrulama gibi önlemler alınır.
+
+Siber saldırılar arasında en yaygın olanları şunlardır:
+- Phishing (oltalama)
+- Ransomware (fidye yazılımı)
+- DDoS saldırıları
+- Zero-Day Exploits
+- İç tehditler (insider threats)
+
+Siber güvenlik politikalarının etkili olması için hem teknik hem de hukuki boyutlar birlikte değerlendirilmelidir. Ayrıca çalışanlara düzenli siber farkındalık eğitimleri verilmelidir.
+
+Siber güvenlik, sadece teknoloji değil; insan, süreç ve hukuki altyapı bileşenlerini de içerir.
